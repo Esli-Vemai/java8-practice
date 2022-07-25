@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3321b0ab-0295-471b-8998-33bf891aea13" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2C1trHW8kkPNJRY4Vw0LdcoDsWj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="full.screen.before.presentation.mode" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/learn/java8/defaults/multipleInheritance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WORKSPACES\Java8Udemy(PragmaticCodeSchool)\MySourceCode\src\com\learn\java8\defaults\multipleInheritance" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MultiplierClient">
+    <configuration name="DefaultMethodExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learn.java8.defaults.DefaultMethodExample" />
+      <module name="Java8Udemy(PragmaticCodeSchool)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learn.java8.defaults.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DefaultMethodExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learn.java8.defaults.DefaultMethodExample2" />
+      <module name="Java8Udemy(PragmaticCodeSchool)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learn.java8.defaults.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FilterAndMapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learn.java8.optional.FilterAndMapExample" />
+      <module name="Java8Udemy(PragmaticCodeSchool)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learn.java8.optional.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlatMapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learn.java8.optional.FlatMapExample" />
+      <module name="Java8Udemy(PragmaticCodeSchool)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learn.java8.optional.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultiplierClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learn.java8.defaults.interfaceExample.MultiplierClient" />
+      <module name="Java8Udemy(PragmaticCodeSchool)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learn.java8.defaults.interfaceExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.FilterAndMapExample" />
+      <item itemvalue="Application.FlatMapExample" />
+      <item itemvalue="Application.DefaultMethodExample" />
+      <item itemvalue="Application.DefaultMethodExample2" />
+      <item itemvalue="Application.MultiplierClient" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MultiplierClient" />
+        <item itemvalue="Application.DefaultMethodExample2" />
+        <item itemvalue="Application.DefaultMethodExample" />
+        <item itemvalue="Application.FlatMapExample" />
+        <item itemvalue="Application.FilterAndMapExample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3321b0ab-0295-471b-8998-33bf891aea13" name="Default Changelist" comment="" />
+      <created>1657982116424</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657982116424</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="446" y="69" key="#com.intellij.ide.util.MemberChooser" timestamp="1658723221515">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="69" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1658723221515" />
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1658379611782">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1658379611782" />
+    <state width="1236" height="184" key="GridCell.Tab.0.bottom" timestamp="1658724132631">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="184" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1658722573822">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="184" key="GridCell.Tab.0.bottom.inPresentationMode/0.0.1280.680@0.0.1280.680" timestamp="1658722573822" />
+    <state width="1236" height="184" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1658724132631" />
+    <state width="1236" height="184" key="GridCell.Tab.0.center" timestamp="1658724132631">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="184" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1658722573822">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="184" key="GridCell.Tab.0.center.inPresentationMode/0.0.1280.680@0.0.1280.680" timestamp="1658722573822" />
+    <state width="1236" height="184" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1658724132631" />
+    <state width="1236" height="184" key="GridCell.Tab.0.left" timestamp="1658724132630">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="184" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1658722573821">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="184" key="GridCell.Tab.0.left.inPresentationMode/0.0.1280.680@0.0.1280.680" timestamp="1658722573821" />
+    <state width="1236" height="184" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1658724132630" />
+    <state width="1236" height="184" key="GridCell.Tab.0.right" timestamp="1658724132631">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="184" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1658722573822">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="184" key="GridCell.Tab.0.right.inPresentationMode/0.0.1280.680@0.0.1280.680" timestamp="1658722573822" />
+    <state width="1236" height="184" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1658724132631" />
+    <state x="337" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1658719049263">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1658719049263" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1658723336801">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1658723336801" />
+  </component>
+</project>
